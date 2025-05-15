@@ -1,0 +1,11 @@
+offline_rag_agent/__pycache__
+offline_rag_agent/venv
+offline_rag_agent/logs
+offline_rag_agent/test
+offline_rag_agent/data
+offline_rag_agent/utils/__pycache__
+.pytest_cache
+data/
+.env
+models/
+tests/__pycache__
